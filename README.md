@@ -5,6 +5,9 @@ In this group assignment, we worked on ERA5_2mTemp_19900101-19900531_00h.nc, tem
 * Task 2: calculate daily mean global temperature and plot the time series
 * Task 3: calculate the mean temperature for each month (January-May) and plot the data on (five) global maps.
 
+### ERA5 Dataset
+ERA5 is the latest climate reanalysis produced by ECMWF, providing hourly data on many atmospheric, land-surface and sea-state parameters together with estimates of uncertainty.ERA5 data are available in the Climate Data Store on regular latitude-longitude grids at 0.25o x 0.25o resolution, with atmospheric parameters on 37 pressure levels. ERA5 is available from 1940 and continues to be extended forward in time, with daily updates being made available 5 days behind real time. https://climate.copernicus.eu/climate-reanalysis 
+
 ### Project Folder Structure
 The repository contains the full codes used and a sample data that can be used to test the code.
 
