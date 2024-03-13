@@ -1,4 +1,6 @@
 # Analysis_of_ERA5_Dataset_with_Python
+
+### Task Overview
 In this group assignment, we worked on ERA5_2mTemp_19900101-19900531_00h.nc, temperature data from January to May in 1990. The tasks are as follows:
 
 * Task 1: open the file ERA5_2mTemp_19900101-19900531_00h.nc in the shared data/Temperature/ERA5 folder and plot the temperature on January 1, 1990 on a map
