@@ -8,7 +8,8 @@ In this group assignment, we worked on ERA5_2mTemp_19900101-19900531_00h.nc, tem
 ### Project Folder Structure
 The repository contains the full codes used and a sample data that can be used to test the code.
 
-1) [`01_Code`](./media/examples/): This folder contains all the python codes for the tasks.
+1) [`00_Data`](./media/examples/): This folder contains datasets in our local drive. Since the dataset is very large, it cannot be stored here in github. However, you can access the dataset from this link shared data/Temperature/ERA5.
+2) [`01_Code`](./media/examples/): This folder contains all the python codes for the tasks.
 1) [`02_Outputs`](./scripts): This folder contains outputs images from the codes.
 
 ### Task Division
