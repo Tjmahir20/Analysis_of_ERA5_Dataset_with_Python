@@ -23,3 +23,6 @@ There are three persons in our group: Mahir Tazwar, Xinran Bian and Tahmida Sark
 - Task 1: Mahir Tazwar  
 - Task 2: Xinran Bian  
 - Task 3: Tahmida Sarker Muna
+
+### Final Outputs
+![Output_1](T1_Global Temperature Map of 1990 January 1st.png)
