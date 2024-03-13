@@ -17,6 +17,12 @@ The repository contains the full codes used and a sample data that can be used t
 2) [`01_Code`](./media/examples/): This folder contains all the python codes for the tasks.
 1) [`02_Outputs`](./scripts): This folder contains outputs images from the codes.
 
+### Used Python Packages
+* Matplotlib (https://matplotlib.org/stable/users/installing/index.html)
+* Numpy (https://numpy.org/doc/stable/user/absolute_beginners.html)
+* Xarray (https://docs.xarray.dev/en/stable/index.html)
+* Os (https://www.w3schools.com/python/module_os.asp)
+
 ### Task Division
 There are three persons in our group: Mahir Tazwar, Xinran Bian and Tahmida Sarker Muna. The tasks are divided as below.<br>
 
