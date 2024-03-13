@@ -25,6 +25,11 @@ There are three persons in our group: Mahir Tazwar, Xinran Bian and Tahmida Sark
 - Task 3: Tahmida Sarker Muna
 
 ### Final Outputs
+### Task 1: Global Temperature Map of 1990 January 1st
 ![T1_Global Temperature Map of 1990 January 1st](https://github.com/Tjmahir20/Analysis_of_ERA5_Dataset_with_Python/assets/126650557/0532cb56-435e-4959-8461-1473047bbe2f)
+
+### Task 2: Daily_Mean_Global_Temperature
 ![T2_Daily_Mean_Global_Temperature](https://github.com/Tjmahir20/Analysis_of_ERA5_Dataset_with_Python/assets/126650557/a032e3a5-35f5-4b0b-9d6b-f008e03019aa)
+
+### Task 3: Monthly_Global_Mean_Temperature_Maps
 ![T3_Monthly_Global_Mean_Temperature_Maps](https://github.com/Tjmahir20/Analysis_of_ERA5_Dataset_with_Python/assets/126650557/7feb800c-8bfe-449c-b4ae-6bbc8311bacd)
