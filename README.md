@@ -42,5 +42,4 @@ There are three persons in our group: Mahir Tazwar, Xinran Bian, and Tahmida Sar
 
 
 
-*** This repository is developed as a part of an assignment of 
-![Satellites for Geohealth]([https://github.com/Tjmahir20/Analysis_of_ERA5_Dataset_with_Python/assets/126650557/7feb800c-8bfe-449c-b4ae-6bbc8311bacd](https://studyguide.itc.nl/m-geo/all-courses/202300143/satellites-for-geohealth-)) course ***
+*** This repository is developed as a part of an assignment of *Satellites for Geohealth* Course (https://studyguide.itc.nl/m-geo/all-courses/202300143/satellites-for-geohealth-?q=satelli) ***
